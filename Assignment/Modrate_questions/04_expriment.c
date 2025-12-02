@@ -1,6 +1,6 @@
 // Write a program to find greatest of two numbers.
 #include <stdio.h>
-int greatest(int a, int b);
+int greatest(int,int);
 int greatest(int a, int b)
 {
     if (a > b)

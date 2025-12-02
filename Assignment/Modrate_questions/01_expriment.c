@@ -1,8 +1,8 @@
 // Write a program to swap two numbers
 #include <stdio.h>
-void swap(int* a, int* b);
-void print(int a, int b);
-void input(int* a, int* b);
+void swap(int*, int*);
+void print(int, int);
+void input(int*, int*);
 
 int main()
 {
